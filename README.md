@@ -9,7 +9,6 @@
 ![image](https://user-images.githubusercontent.com/102715143/173334113-26bc4d8b-77b3-4d7b-a9d9-5b8a45087d70.png)<br>
 삭제 버튼을 누르게 되면 입력한 정보를 삭제함<br>
 ![image](https://user-images.githubusercontent.com/102715143/173334140-aa030f62-c5e3-4b51-a02c-12fe9c440f55.png)<br>
-수정 버튼을 누르고 정보를 수정하면 정보를 수정할수 있다.<br>
 ![image](https://user-images.githubusercontent.com/102715143/173334170-dd094ef0-08b8-4114-8d99-dbb4d582cedf.png)<br>
 수정 버튼을 누르면 정보를 수정할수 있다.<br>
 ![image](https://user-images.githubusercontent.com/102715143/173334222-e17fbb77-50bc-41f1-a904-6c96cebaa2ea.png)<br>
