@@ -2,7 +2,7 @@
 **파일 설명**<br>
 1 dbcon.php<br>
 2.input.php, inputok.php, list.php, delete.php, update.php, updateok.php 와 같은 파일을들을 만든다.<br>
-**프로그램 설명**
+**프로그램 설명**<br>
 제품 정보를 입력한다.<br>
 ![image](https://user-images.githubusercontent.com/102715143/173334093-397ae9a2-b7b5-42d8-87f0-dd33eb9c2458.png)<br>
 제줄 버튼을 누르면 품목이 저장되었다는 메시지를 통해 회원목록 버튼을 누른다.<br>
